@@ -1,3 +1,3 @@
 # hellow-world
-hellow
+hello
 I am Hinton, making the first change.
